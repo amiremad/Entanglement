@@ -1,0 +1,3 @@
+# Entanglement
+
+Entanglement is a game that asks you to construct a path by placing a sequence of tiles. Based on the placement of these tiles, the players get a score that corresponds to the length of the constructed path. Each of these tiles is a regular hexagon with 2 two openings on each side. The path ends when it hits a dead end. The aim of the game is to make the path as long as possible, thus increasing your score.
